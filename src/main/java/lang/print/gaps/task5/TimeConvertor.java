@@ -14,6 +14,6 @@ public class TimeConvertor {
         TimeConvertor converter = new TimeConvertor();
 
         // Test the convert method
-        converter.convert(5.0f); // Example: Convert 5 minutes to seconds
+        converter.convert(11.5f); // Example: Convert 5 minutes to seconds
     }
 }
