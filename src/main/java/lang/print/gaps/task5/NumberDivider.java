@@ -15,7 +15,7 @@ public class NumberDivider {
         NumberDivider divider = new NumberDivider();
 
         // Test the divide method
-        divider.divide(20); // Example: Divide 20 by 5
+        divider.divide(19); // Example: Divide 20 by 5
     }
     }
 
